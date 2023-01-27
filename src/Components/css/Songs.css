@@ -1,0 +1,9 @@
+.songs table {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.index h2 {
+    padding: 25px 0px 0px 20px;
+}

@@ -2,6 +2,9 @@
 
 # Tuner Front-End
 
+## Front-end repo: 
+https://github.com/Kylie-Lang1/bookmarks2-frontend-starter
+
 ## Getting Started
 
 - keep the backend running, open a new tab

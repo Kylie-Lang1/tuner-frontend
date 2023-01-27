@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+}
+
+nav {
+    background-color: purple;
+    height: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: baseline;
+}
+
+nav h1 {
+    color: white;
+    font-size: 40px;
+    padding: 25px 0 0 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+}
+
+nav button {
+    background-color: purple;
+    border: none;
+    font-size: 20px;
+}
